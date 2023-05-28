@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Desktop/Robot/install
+
+Name: relay
+Description: Description of relay
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

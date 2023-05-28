@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/Desktop/Robot/devel
+
+Name: adc_temp
+Description: Description of adc_temp
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

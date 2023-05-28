@@ -1,0 +1,2 @@
+adc_flame:adc_temp:ads_mq7:relay
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/Desktop/Robot/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/Desktop/Robot/install -G Unix Makefiles
